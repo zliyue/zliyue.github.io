@@ -19,9 +19,9 @@ export default defineUserConfig({
         children: [{
           text:'HTML&CSS',
           link:'/frontEndProgramming/HTML&CSS/01_软件开发-发展路线-软件安装-网页组成.md'
-        }],
+        }]
       }
-    ],
+    ]
   })
 })
 /*
